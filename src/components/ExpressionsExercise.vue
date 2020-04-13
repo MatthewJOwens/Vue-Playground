@@ -7,14 +7,13 @@
                     <p>Write a math equation Vue can evaluate.</p>
 
                     <p> {{
-                        <!-- Add your code inside the curlies -->
-                    Math.floor(Math.random * 20) }}</p>
+                    Math.random}}</p>
                 </div>
                 <div class="border p-1">
                     <p>Use interpolation to get the customary Hello, World! to display on the screen. Don't
                         forget your quotes</p>
                     <p> {{
-                        <!-- Add your code inside the curlies --> }}</p>
+                        "hello world"}}</p>
                 </div>
             </div>
         </div>
