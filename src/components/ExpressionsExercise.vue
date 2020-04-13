@@ -7,7 +7,8 @@
                     <p>Write a math equation Vue can evaluate.</p>
 
                     <p> {{
-                        <!-- Add your code inside the curlies --> }}</p>
+                        <!-- Add your code inside the curlies -->
+                    Math.floor(Math.random * 20) }}</p>
                 </div>
                 <div class="border p-1">
                     <p>Use interpolation to get the customary Hello, World! to display on the screen. Don't
